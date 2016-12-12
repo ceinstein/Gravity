@@ -4,7 +4,7 @@ javac Gravity.java Space.java Player.java Planet.java Vec2D.java UserInput.java
 
 To run:
 
-java Gravity <rows><cols>
+java Gravity <rows> <cols>
 
 
 User Input:
