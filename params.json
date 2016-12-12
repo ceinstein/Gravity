@@ -1,0 +1,6 @@
+{
+  "name": "Gravity",
+  "tagline": "Small gravity simulator",
+  "body": "To compile:\r\n\r\njavac Gravity.java Space.java Player.java Planet.java Vec2D.java UserInput.java\r\n\r\nTo run:\r\n\r\njava Gravity (rows) (cols)\r\n\r\n\r\nUser Input:\r\n\r\n     - w (Thrusts ship down)\r\n     - s (Thrusts ship up)\r\n     - a (Thrusts ship right)\r\n     - d (Thrusts ship left)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
